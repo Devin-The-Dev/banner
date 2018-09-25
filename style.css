@@ -16,6 +16,7 @@ body {
   background-repeat: repeat-x;
   background-position: bottom;
   background-size: cover;
+  background-clip: text;
   -webkit-background-clip: text;
   animation: animate 15s linear infinite;
   text-align: center;
